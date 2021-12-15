@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Environment
 {
-    public class ProjectorToggle : MonoBehaviour
+    public class ObjectToggle : MonoBehaviour
     {
         [SerializeField] private GameObject[] gameObjects;
 
