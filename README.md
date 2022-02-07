@@ -1,6 +1,6 @@
 # #0x0B Unity VR Room
 
-[VR room banner](maxlov.github.com/0x0B-unity-vr_room/Images/vr_room.jpg)
+![VR room banner](Images/vr_room.jpg)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/maxlov/0x0B-unity-vr_room)
 ![Twitter Follow](https://img.shields.io/twitter/follow/maxwell_lovell?style=social)
